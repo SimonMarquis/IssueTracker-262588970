@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lib_public_string">public</string>
+    <string name="lib_private_string">private</string>
+</resources>

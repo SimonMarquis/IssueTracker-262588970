@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IssueTracker-262588970</string>
+
+    <!-- region References -->
+    <string name="app_public_string">@string/lib_public_string</string>
+    <!--<string name="app_private_string">@string/lib_private_string</string>-->
+    <!-- endregion -->
+
+    <!-- region Overrides -->
+    <string name="lib_public_string">override public</string>
+    <!--<string name="lib_private_string">override private</string>-->
+    <!-- endregion -->
+</resources>
